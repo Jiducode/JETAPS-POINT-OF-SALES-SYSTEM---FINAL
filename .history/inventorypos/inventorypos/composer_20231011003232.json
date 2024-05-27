@@ -1,0 +1,22 @@
+{
+  "name": "jetaps2023/adminlte",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
+  "homepage": "https://adminlte.io/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Colorlib"
+    }
+  ],
+  "license": "MIT"
+}
